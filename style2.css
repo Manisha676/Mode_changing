@@ -1,0 +1,12 @@
+#btn{
+   height: 50px;
+   width:150px;
+    background-color: blue;
+    color:aliceblue;
+    border: solid black;
+    
+}
+#div{
+    display: grid;
+    place-items: center;
+}
